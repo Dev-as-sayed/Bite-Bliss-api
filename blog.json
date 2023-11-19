@@ -1,0 +1,230 @@
+[
+    {
+      "foodName": "Chicken Biryani",
+      "title": "Spicy Chicken Biryani",
+      "description": "A mouth-watering blend of aromatic basmati rice, tender chicken, and a medley of spices. This one-pot wonder is a feast for the senses.",
+      "photo": "https://i.ibb.co/mbz5C9S/image.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g chicken, cut into pieces",
+        "1 cup yogurt",
+        "4 tablespoons biryani masala",
+        "3 onions, thinly sliced",
+        "4 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, bay leaves)"
+      ],
+      "makingProcess": "Marinate chicken in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Cook on low heat until rice is tender."
+    },
+    {
+      "foodName": "Beef Biryani",
+      "title": "Savory Beef Biryani",
+      "description": "A rich and flavorful dish featuring succulent beef, fragrant basmati rice, and a symphony of spices. A true celebration of South Asian cuisine.",
+      "photo": "https://i.ibb.co/gWVL13L/image.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g beef, cubed",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "3 onions, thinly sliced and fried",
+        "4 tomatoes, pureed",
+        "1/2 cup fresh coriander, chopped",
+        "1/2 cup mint leaves",
+        "4 tablespoons ghee",
+        "Whole spices (cumin, cloves, cardamom)"
+      ],
+      "makingProcess": "Marinate beef in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Slow-cook until the meat is tender and the flavors meld."
+    },
+    {
+      "foodName": "Mutton Biryani",
+      "title": "Classic Mutton Biryani",
+      "description": "An iconic dish featuring succulent mutton, fragrant basmati rice, and a melange of spices. This biryani is a true testament to culinary perfection.",
+      "photo": "https://i.ibb.co/GxYQn5y/image.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g mutton, cut into pieces",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "3 onions, thinly sliced and fried",
+        "4 tomatoes, pureed",
+        "1/2 cup fresh coriander, chopped",
+        "1/2 cup mint leaves",
+        "4 tablespoons ghee",
+        "Whole spices (cumin, cloves, cardamom)"
+      ],
+      "makingProcess": "Marinate mutton in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Slow-cook until the meat is tender and the flavors meld."
+    },
+    {
+        "foodName": "Vegetable Biryani",
+        "title": "Flavorful Vegetable Biryani",
+        "description": "A delightful vegetarian option with a medley of colorful vegetables, fragrant basmati rice, and aromatic spices. A feast for both the eyes and the palate.",
+        "photo": "https://i.ibb.co/pLvRGVW/image.png",
+        "ingredients": [
+          "2 cups basmati rice",
+          "Assorted vegetables (carrots, peas, beans)",
+          "1 cup yogurt",
+          "4 tablespoons biryani masala",
+          "2 onions, thinly sliced and fried",
+          "3 tomatoes, chopped",
+          "1/2 cup mint leaves",
+          "1/2 cup cilantro, chopped",
+          "4 tablespoons ghee",
+          "Whole spices (cardamom, cinnamon, cloves)"
+        ],
+        "makingProcess": "Mix vegetables with yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Cook until the rice is tender. A vibrant and tasty vegetarian treat!"
+    },
+    {
+    "foodName": "Fish Biryani",
+    "title": "Spicy Fish Biryani",
+    "description": "An aromatic blend of marinated fish, fragrant basmati rice, and a mix of spices. This seafood delight brings the flavors of the ocean to your plate.",
+    "photo": "https://i.ibb.co/D5gVS45/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "500g fish fillets",
+        "1 cup plain yogurt",
+        "4 tablespoons fish biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Marinate fish in yogurt and fish biryani masala. Layer with partially cooked rice, fried onions, and herbs. Cook until the fish is cooked through and the rice is tender."
+    },         
+    {
+    "foodName": "Egg Biryani",
+    "title": "Flavor-packed Egg Biryani",
+    "description": "A delectable fusion of hard-boiled eggs, fragrant basmati rice, and a mix of spices. This biryani is a hearty and satisfying option for egg lovers.",
+    "photo": "https://i.ibb.co/RcnVkP5/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "6 hard-boiled eggs, halved",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Layer hard-boiled eggs with marinated rice, fried onions, and herbs. Cook until the rice is tender. A protein-packed and flavorful choice for egg enthusiasts!"
+    },
+    {
+    "foodName": "Hyderabadi Biryani",
+    "title": "Hyderabadi Dum Biryani",
+    "description": "A regal dish with fragrant basmati rice, marinated meat, and aromatic spices, slow-cooked to perfection. A culinary masterpiece inspired by the city of Nizams.",
+    "photo": "https://i.ibb.co/k3FDWf0/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "500g meat (chicken/mutton/beef)",
+        "1 cup yogurt",
+        "4 tablespoons biryani masala",
+        "4 onions, thinly sliced and fried",
+        "4 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Marinate meat in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Slow-cook to perfection using the dum method for an authentic Hyderabadi experience."
+    },
+    {
+    "foodName": "Kofta Biryani",
+    "title": "Flavorful Kofta Biryani",
+    "description": "A delightful fusion of spiced kofta (meatballs), fragrant basmati rice, and aromatic spices. This biryani is a celebration of textures and flavors.",
+    "photo": "https://i.ibb.co/LJ8yV6h/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "500g kofta (meatballs)",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Layer spiced kofta with marinated rice, fried onions, and herbs. Cook until the rice is tender. A delightful and savory twist to the traditional biryani."
+    },
+    {
+    "foodName": "Paneer Biryani",
+    "title": "Paneer Paradise Biryani",
+    "description": "An exquisite vegetarian delight featuring succulent paneer, fragrant basmati rice, and a blend of aromatic spices. A celebration of flavors for paneer lovers.",
+    "photo": "https://i.ibb.co/x6tx4mJ/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "250g paneer (cottage cheese), cubed",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Marinate paneer in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Cook until the rice is tender. A vegetarian paradise on your plate!"
+    },
+    {
+    "foodName": "Shrimp Biryani",
+    "title": "Sizzling Shrimp Biryani",
+    "description": "A seafood sensation with plump shrimp, fragrant basmati rice, and a melody of spices. This biryani brings the flavors of the ocean to your dining table.",
+    "photo": "https://i.ibb.co/ckWkgtS/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "500g shrimp, peeled and deveined",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Marinate shrimp in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Cook until the shrimp is cooked through and the rice is tender."
+    },
+    {
+    "foodName": "Keema Biryani",
+    "title": "Savory Keema Biryani",
+    "description": "A hearty dish featuring spiced minced meat, fragrant basmati rice, and a symphony of aromatic spices. A perfect comfort food for meat lovers.",
+    "photo": "https://i.ibb.co/Q8XNqry/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "500g minced meat (chicken/beef/mutton)",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Sauté spiced minced meat, layer with partially cooked rice, fried onions, and herbs. Cook until the meat is cooked through and the rice is tender. A flavorful meaty delight!"
+    },
+    {
+    "foodName": "Lamb Biryani",
+    "title": "Royal Lamb Biryani",
+    "description": "A regal dish featuring succulent lamb, fragrant basmati rice, and a blend of aromatic spices. This biryani is fit for a king's feast.",
+    "photo": "https://i.ibb.co/4STpt9Z/image.png",
+    "ingredients": [
+        "2 cups basmati rice",
+        "500g lamb, cut into pieces",
+        "1 cup plain yogurt",
+        "4 tablespoons biryani masala",
+        "2 onions, thinly sliced and fried",
+        "3 tomatoes, chopped",
+        "1/2 cup mint leaves",
+        "1/2 cup cilantro, chopped",
+        "4 tablespoons ghee",
+        "Whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "makingProcess": "Marinate lamb in yogurt and biryani masala. Layer with partially cooked rice, fried onions, and herbs. Slow-cook until the meat is tender and the flavors meld. Fit for royalty!"
+    }
+  ]

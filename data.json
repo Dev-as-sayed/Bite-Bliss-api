@@ -1,0 +1,342 @@
+[
+    {
+      "foodName": "Chicken Tikka Masala",
+      "foodImage": "https://i.ibb.co/PrKQsNg/image.png",
+      "foodCategory": "Indian",
+      "restaurantName": "Spice Delight",
+      "previousPrice": 15.99,
+      "currentPrice": 13.99,
+      "offer": "",
+      "quantity": 17
+    },
+    {
+      "foodName": "Fresh Fruit Salad",
+      "foodImage": "https://i.ibb.co/nwt7gL4/image.png",
+      "foodCategory": "Healthy",
+      "restaurantName": "Nature's Bowl",
+      "previousPrice": 6.99,
+      "currentPrice": 5.49,
+      "offer": "",
+      "quantity": 19
+    },
+    {
+      "foodName": "Homestyle Meatloaf",
+      "foodImage": "https://i.ibb.co/gZd8M0M/image.png",
+      "foodCategory": "Comfort Food",
+      "restaurantName": "Cozy Kitchen",
+      "previousPrice": 11.99,
+      "currentPrice": 9.99,
+      "offer": "",
+      "quantity": 18
+    },
+    {
+      "foodName": "Crispy Fish and Chips",
+      "foodImage": "https://i.ibb.co/WFhW8nr/image.png",
+      "foodCategory": "Seafood",
+      "restaurantName": "Harbor Fry",
+      "previousPrice": 14.99,
+      "currentPrice": 12.49,
+      "offer": "10% off",
+      "quantity": 16
+    },
+    {
+      "foodName": "Strawberry Cheesecake",
+      "foodImage": "https://i.ibb.co/5YqzHk4/image.png",
+      "foodCategory": "Dessert",
+      "restaurantName": "Sweet Indulgence",
+      "previousPrice": 8.99,
+      "currentPrice": 7.49,
+      "offer": "",
+      "quantity": 20
+    },
+    {
+      "foodName": "Avocado Toast",
+      "foodImage": "https://i.ibb.co/wN4kzYg/image.png",
+      "foodCategory": "Breakfast",
+      "restaurantName": "Morning Bliss",
+      "previousPrice": 5.99,
+      "currentPrice": 4.99,
+      "offer": "",
+      "quantity": 16
+    },
+    {
+      "foodName": "Beef and Broccoli Stir-Fry",
+      "foodImage": "https://i.ibb.co/WGdf9zb/image.png",
+      "foodCategory": "Asian",
+      "restaurantName": "Wok Master",
+      "previousPrice": 12.99,
+      "currentPrice": 10.99,
+      "offer": "",
+      "quantity": 18
+    },
+    {
+      "foodName": "Blueberry Pancakes",
+      "foodImage": "https://i.ibb.co/FVNwyxj/image.png",
+      "foodCategory": "Breakfast",
+      "restaurantName": "Fluffy Flapjacks",
+      "previousPrice": 7.99,
+      "currentPrice": 6.49,
+      "offer": "",
+      "quantity": 19
+    },
+    {
+      "foodName": "Mango Sorbet",
+      "foodImage": "https://i.ibb.co/0V1xH75/image.png",
+      "foodCategory": "Dessert",
+      "restaurantName": "Tropical Treats",
+      "previousPrice": 4.99,
+      "currentPrice": 3.99,
+      "offer": "",
+      "quantity": 17
+    },
+    {
+      "foodName": "Pepperoni Pizza",
+      "foodImage": "https://i.ibb.co/zrKwtyq/image.png",
+      "foodCategory": "Pizza",
+      "restaurantName": "Slice of Heaven",
+      "previousPrice": 14.99,
+      "currentPrice": 12.99,
+      "offer": "",
+      "quantity": 18
+    },
+    {
+      "foodName": "Classic Caesar Salad",
+      "foodImage": "https://i.ibb.co/K27STX8/image.png",
+      "foodCategory": "Salad",
+      "restaurantName": "Greens Galore",
+      "previousPrice": 9.99,
+      "currentPrice": 8.49,
+      "offer": "15% off",
+      "quantity": 16
+    },
+    {
+      "foodName": "Shrimp Scampi",
+      "foodImage": "https://i.ibb.co/zbkHsjV/image.png",
+      "foodCategory": "Seafood",
+      "restaurantName": "Sea Delights",
+      "previousPrice": 16.99,
+      "currentPrice": 14.99,
+      "offer": "",
+      "quantity": 20
+    },
+    {
+      "foodName": "Vegan Buddha Bowl",
+      "foodImage": "https://i.ibb.co/7KnZNCb/image.png",
+      "foodCategory": "Vegetarian",
+      "restaurantName": "Plant Eats",
+      "previousPrice": 11.99,
+      "currentPrice": 10.49,
+      "offer": "",
+      "quantity": 18
+    },
+    {
+      "foodName": "Beef Tacos",
+      "foodImage": "https://i.ibb.co/XZKjYTf/image.png",
+      "foodCategory": "Mexican",
+      "restaurantName": "Taco Fiesta",
+      "previousPrice": 7.99,
+      "currentPrice": 6.49,
+      "offer": "10% off",
+      "quantity": 19
+    },
+    {
+      "foodName": "Caprese Panini",
+      "foodImage": "https://i.ibb.co/Wt1z3VV/image.png",
+      "foodCategory": "Sandwich",
+      "restaurantName": "Panini Paradise",
+      "previousPrice": 8.99,
+      "currentPrice": 7.49,
+      "offer": "",
+      "quantity": 17
+    },
+    {
+      "foodName": "Lemon Garlic Chicken",
+      "foodImage": "https://i.ibb.co/d2Rdc4T/image.png",
+      "foodCategory": "Chicken",
+      "restaurantName": "Citrus Grill",
+      "previousPrice": 13.99,
+      "currentPrice": 11.99,
+      "offer": "",
+      "quantity": 20
+    },
+    {
+      "foodName": "Mint Chocolate Chip Ice Cream",
+      "foodImage": "https://i.ibb.co/7gnBvnD/image.png",
+      "foodCategory": "Dessert",
+      "restaurantName": "Sweet Scoops",
+      "previousPrice": 5.99,
+      "currentPrice": 4.99,
+      "offer": "",
+      "quantity": 18
+    },
+    {
+      "foodName": "Iced Caramel Macchiato",
+      "foodImage": "https://i.ibb.co/sKXRH5q/image.png",
+      "foodCategory": "Beverage",
+      "restaurantName": "Caffeine Fix",
+      "previousPrice": 3.99,
+      "currentPrice": 3.49,
+      "offer": "",
+      "quantity": 16
+    },
+    {
+      "foodName": "Cheeseburger",
+      "foodImage": "https://i.ibb.co/82ZwkMF/image.png",
+      "foodCategory": "Burgers",
+      "restaurantName": "Bite Bliss Burgers",
+      "previousPrice": 8.99,
+      "currentPrice": 7.99,
+      "offer": "",
+      "quantity": 18
+    },
+    {
+      "foodName": "Margherita Pizza",
+      "foodImage": "https://i.ibb.co/k5RnctZ/image.png",
+      "foodCategory": "Pizza",
+      "restaurantName": "Pizza Paradise",
+      "previousPrice": 12.99,
+      "currentPrice": 10.99,
+      "offer": "",
+      "quantity": 16
+    },
+    {
+      "foodName": "Spaghetti Bolognese",
+      "foodImage": "https://i.ibb.co/ZBjM0qB/image.png",
+      "foodCategory": "Pasta",
+      "restaurantName": "Mamma Mia Pasta House",
+      "previousPrice": 9.99,
+      "currentPrice": 8.49,
+      "offer": "",
+      "quantity": 20
+    },
+    {
+      "foodName": "Sushi Combo",
+      "foodImage": "https://i.ibb.co/KDXgxjh/image.png",
+      "foodCategory": "Sushi",
+      "restaurantName": "Tokyo Delight",
+      "previousPrice": 18.99,
+      "currentPrice": 16.99,
+      "offer": "25% off",
+      "quantity": 18
+    },
+    {
+      "foodName": "Chicken Alfredo",
+      "foodImage": "https://i.ibb.co/PmcM2Nt/image.png",
+      "foodCategory": "Pasta",
+      "restaurantName": "Alfredo's Kitchen",
+      "previousPrice": 10.99,
+      "currentPrice": 9.49,
+      "offer": "",
+      "quantity": 17
+    },
+    {
+      "foodName": "Vegetarian Stir-Fry",
+      "foodImage": "https://i.ibb.co/VDSfryZ/image.png",
+      "foodCategory": "Vegetarian",
+      "restaurantName": "Green Haven",
+      "previousPrice": 11.99,
+      "currentPrice": 10.49,
+      "offer": "",
+      "quantity": 19
+    },
+    {
+      "foodName": "BBQ Ribs",
+      "foodImage": "https://i.ibb.co/1TMg6S2/image.png",
+      "foodCategory": "BBQ",
+      "restaurantName": "Smokehouse Grill",
+      "previousPrice": 14.99,
+      "currentPrice": 12.99,
+      "offer": "",
+      "quantity": 16
+    },
+    {
+      "foodName": "Chocolate Lava Cake",
+      "foodImage": "https://i.ibb.co/gvkH4Xk/image.png",
+      "foodCategory": "Dessert",
+      "restaurantName": "Sweet Delights",
+      "previousPrice": 6.99,
+      "currentPrice": 5.99,
+      "offer": "15% off",
+      "quantity": 18
+    },
+    {
+      "foodName": "Mango Tango Smoothie",
+      "foodImage": "https://i.ibb.co/tJwgbX2/image.png",
+      "foodCategory": "Beverage",
+      "restaurantName": "Fresh Sips",
+      "previousPrice": 4.99,
+      "currentPrice": 3.99,
+      "offer": "",
+      "quantity": 20
+    },
+    {
+        "foodName": "Cheeseburger",
+        "foodImage": "https://i.ibb.co/Y7sVMJD/image.png",
+        "foodCategory": "Burgers",
+        "restaurantName": "Bite Bliss Burgers",
+        "previousPrice": 8.99,
+        "currentPrice": 7.99,
+        "offer": "",
+        "quantity": 18
+    },
+    {
+        "foodName": "Margherita Pizza",
+        "foodImage": "https://i.ibb.co/TbX5wYd/image.png",
+        "foodCategory": "Pizza",
+        "restaurantName": "Pizza Paradise",
+        "previousPrice": 12.99,
+        "currentPrice": 10.99,
+        "offer": "15% off",
+        "quantity": 16
+    },
+    {
+        "foodName": "Spaghetti Bolognese",
+        "foodImage": "https://i.ibb.co/ZBjM0qB/image.png",
+        "foodCategory": "Pasta",
+        "restaurantName": "Mamma Mia Pasta House",
+        "previousPrice": 9.99,
+        "currentPrice": 8.49,
+        "offer": "10% off",
+        "quantity": 20
+    },
+    {
+        "foodName": "Sushi Combo",
+        "foodImage": "https://i.ibb.co/x5hG9vf/image.png",
+        "foodCategory": "Sushi",
+        "restaurantName": "Tokyo Delight",
+        "previousPrice": 18.99,
+        "currentPrice": 16.99,
+        "offer": "",
+        "quantity": 18
+    },
+    {
+        "foodName": "Chicken Alfredo",
+        "foodImage": "https://i.ibb.co/PmcM2Nt/image.png",
+        "foodCategory": "Pasta",
+        "restaurantName": "Alfredo's Kitchen",
+        "previousPrice": 10.99,
+        "currentPrice": 9.49,
+        "offer": "",
+        "quantity": 17
+    },
+    {
+        "foodName": "Vegetarian Stir-Fry",
+        "foodImage": "https://i.ibb.co/jv5tTTY/image.png",
+        "foodCategory": "Vegetarian",
+        "restaurantName": "Green Haven",
+        "previousPrice": 11.99,
+        "currentPrice": 10.49,
+        "offer": "",
+        "quantity": 19
+    },
+    {
+        "foodName": "BBQ Ribs",
+        "foodImage": "https://i.ibb.co/h7YJQqd/image.png",
+        "foodCategory": "BBQ",
+        "restaurantName": "Smokehouse Grill",
+        "previousPrice": 14.99,
+        "currentPrice": 12.99,
+        "offer": "20% off",
+        "quantity": 16
+    }
+  ]
