@@ -2,7 +2,6 @@ import { useContext } from "react";
 import { AuthContext } from "../../../AuthProviders/AuthProviders";
 import { LuUserCircle } from "react-icons/lu";
 import { Link } from "react-router-dom";
-import swal from "sweetalert";
 
 
 const Profile = () => {
